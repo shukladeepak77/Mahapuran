@@ -1,4 +1,4 @@
-export const SITE_URL = "https://mahapuransaar.netlify.app";
+export const SITE_URL = "https://mahapurans.netlify.app";
 export const SITE_NAME = "अठारह महापुराण";
 export const SITE_DESCRIPTION =
   "सनातन धर्म के अठारह महापुराण — एक स्थान पर, प्रवचन-शैली में। श्रीमद्भागवत पुराण हेतु पृथक वेबसाइट देखें; शेष पुराण क्रमशः यहाँ जोड़े जा रहे हैं।";
